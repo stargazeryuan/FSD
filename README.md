@@ -14,7 +14,7 @@
 
 3- training cnns for indirect fire and smomke detection with motion by motion-masked, cropped patches of video frames.
 
-**Motion-less FS detection** :
+**Non motion-based FS detection** :
 
 4- training cnns for direct fire and smoke detection without motion. 
 
