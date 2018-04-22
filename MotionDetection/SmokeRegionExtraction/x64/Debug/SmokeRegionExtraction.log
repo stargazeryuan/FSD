@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\火焰烟雾检测试验\smokeregionextraction\smokeregionextraction\main.cpp(26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\火焰烟雾检测试验\smokeregionextraction\smokeregionextraction\main.cpp(57): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\火焰烟雾检测试验\smokeregionextraction\smokeregionextraction\main.cpp(58): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\火焰烟雾检测试验\smokeregionextraction\smokeregionextraction\main.cpp(95): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+d:\火焰烟雾检测试验\smokeregionextraction\smokeregionextraction\main.cpp(111): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\火焰烟雾检测试验\smokeregionextraction\smokeregionextraction\main.cpp(214): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\火焰烟雾检测试验\smokeregionextraction\smokeregionextraction\main.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\火焰烟雾检测试验\smokeregionextraction\smokeregionextraction\main.cpp(271): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SmokeRegionExtraction.vcxproj -> D:\火焰烟雾检测试验\SmokeRegionExtraction\x64\Debug\SmokeRegionExtraction.exe
+  SmokeRegionExtraction.vcxproj -> D:\火焰烟雾检测试验\SmokeRegionExtraction\x64\Debug\SmokeRegionExtraction.pdb (Partial PDB)
