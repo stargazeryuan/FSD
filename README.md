@@ -4,23 +4,28 @@
 ### Milesones
 **Dataset** :
 
-1- dataset annotation.
+1- dataset annotation. ### Done
 
 **Motion Detection** :
 
-2- motion detection algorithm suited for smoke and fire in early stage - robust and fast.
+2- motion detection algorithm suited for smoke and fire in early stage - robust and fast. #Done
 
-**Motion-based FS detection** :
+**Motion-based FS detection** : Tan and Xiangtian
 
-3- training cnns for indirect fire and smomke detection with motion by motion-masked, cropped patches of video frames.
+3- training cnns for indirect fire and smoke detection with motion by motion-masked, cropped patches of video frames.
 
 **Non motion-based FS detection** :
 
 4- training cnns for direct fire and smoke detection without motion. 
-
+ 4.1 - Detection : Yihan
+ 4.2 - Segmentation: ??
+ 4.3 - Action classification: Xing Ai
 ### Done so far:
 
-1- finished labeling MIVIS dataset.
+1- finished labeling MIVIS dataset
+2 - finished annotation.
+3 - motion segmentation is done.
+
 
 
 
